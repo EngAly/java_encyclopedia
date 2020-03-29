@@ -1,4 +1,4 @@
-package listOperations;
+package fci.engaly.listOperations;
 
 import java.util.ArrayList;
 import java.util.Iterator;
